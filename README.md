@@ -15,15 +15,6 @@
 - 🔊 Creating voice-enabled assistants
 - 📱 Exploring mobile development
 
-## 💼 Featured Projects
-
-### VoiceTrackr
-AI-powered voice communication platform enabling businesses to build no-code phone call systems.
-- 🔗 [Repository](https://github.com/adyanthm/VoiceTrackr)
-- 🌟 Features: AI Voice Agents, White-Label Solution, Client Management
-
-[Add more projects as needed]
-
 ## 🌱 Learning Journey
 - Exploring advanced AI concepts
 - Deepening knowledge in system architecture
