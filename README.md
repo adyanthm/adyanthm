@@ -1,50 +1,95 @@
-# 👋 Hello, I'm Adyanth!
+# 👋 Hello, I'm Adyanth M
 
 ## 🚀 About Me
-13-year-old web developer and AI enthusiast passionate about creating cutting-edge applications. I specialize in crafting innovative solutions that bridge the gap between human interaction and artificial intelligence.
+
+I’m the founder of **ADYANTH AI**, an AI dev company building next-gen AI-powered applications, games and utility tools.
+I am just 14 but already diving deep into robotics, AI, web dev, and game tech.  
+I’m on a mission to redefine how humans interact with machines.
+
+---
+
+## 🧠 TECH Genius MODE: ON 💥
+
+> A young prodigy who excels in programming, hacking and robotics.
+
+| 🦾 Role | 💻 Skills | ⚙️ Tools |
+|--------|-----------|----------|
+| AI Engineer | Custom AI Models, TensorFlow, Hugging Face | Python, JavaScript |
+| Web Dev Genius | React, Next.js, Tailwind, Firebase | VS Code, Git |
+| Game Dev Slayer | WebGL, Three.js, FPS AI Bots | A\* Pathfinding |
+| Robotics Legend | Arduino, Smorphi Bots, Bluetooth, Raspberry PI | Arduino IDE |
+| Visionary Leader | Project Builds, Startup Mindset | Figma, GitHub |
+
+---
 
 ## 🛠️ Tech Stack
-- Frontend: React.js, Next.js, TailwindCSS
-- Backend: Node.js, Firebase
-- AI/ML: OpenAI, TensorFlow
-- Tools: Git, VS Code, Figma
 
-## 🎯 Current Focus
-- 🤖 Developing AI-powered applications
-- 🌐 Building responsive web applications
-- 🔊 Creating voice-enabled assistants
-- 📱 Exploring mobile development
+### 💻 Languages & Frameworks
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+### 🧠 AI / Game Dev / Robotics
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+</p>
+
+### 🌐 Web & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🎯 My Projects
+
+- 💼 [Portfolio](https://adyanth.in)
+- 🤖 [Raaze](https://chat.adyanth.in)
+- 📷 [Calorie Counter Buddy](https://play.google.com/store/apps/details?id=in.adyanth.food.twa)
+- 👨‍🎓 [AdyStudy](https://play.google.com/store/apps/details?id=study.adyanth.in)
+- 🎮 [Race Car Game](https://car.adyanth.in)
+- 🛒 [Ecommerce App](https://shop.adyanth.in)
+- ♿ [SmartSenseAid](https://smart.adyanth.in)
+---
+
+## 🏆Achievements 
+
+- 🥇 1st Place in RoboRoarZ 2025 Singapore - Smorphi Imaginary
+- 🏅 5th Place in RoboRoarz 2025 Singapore - Smorphi Autonomous
+- ⛵ Built a successful prototype of a river cleaning robot.
+- 🥈 2nd Place in National Level TechnoCentral Quiz on robotics.
+- 🥇 1st Place in National Level Robotics Competition conducted by Diya Robotics.
+- 🥇 1st Place in an interschool robotics competition - Maharishi Vidhya Mandhir
+- 🚀 500+ people with disabilities benefitted from my project [SmartSenseAid](https://smart.adyanth.in)
+
+---
 
 ## 🌱 Learning Journey
-- Exploring advanced AI concepts
-- Deepening knowledge in system architecture
-- Studying cloud computing technologies
-- Experimenting with new frameworks
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adyanthm&show_icons=true&theme=radical)
+Always upgrading. Always innovating. Always dreaming bigger 💭  
 
-## 🤝 Let's Connect!
-- 🌐 [Portfolio](adyanth.in)
-- 📧 [Email](mailto:adyanth.mani@gmail.com)
+---
 
+## 📬 Contact Me
 
-## 🤝 Contributing
-I'm always open to collaborating on interesting projects! If you'd like to contribute to any of my repositories:
+- 📧 **Email:** [adyanth.mani@gmail.com](mailto:adyanth.mani@gmail.com)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+---
 
-## 🌟 Support
-If you find my work interesting or helpful, consider:
-- ⭐ Starring my repositories
-- 🔄 Sharing my projects
-- 🐛 Reporting issues
-- 💡 Suggesting improvements
-
-## 📜 License
-Most of my repositories are MIT licensed. See individual repositories for specific licensing information.
-
+*Buitl with ❤️ by Adyanth M*
