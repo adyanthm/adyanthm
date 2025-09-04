@@ -72,6 +72,7 @@ I’m on a mission to redefine how humans interact with machines.
 
 - 🥇 1st Place in RoboRoarZ 2025 Singapore - Smorphi Imaginary
 - 🏅 5th Place in RoboRoarz 2025 Singapore - Smorphi Autonomous
+- 🥉 3rd Place in RoboRoarZ 2025 India - Smorphi Pilot.
 - ⛵ Built a successful prototype of a river cleaning robot.
 - 🥈 2nd Place in National Level TechnoCentral Quiz on robotics.
 - 🥇 1st Place in National Level Robotics Competition conducted by Diya Robotics.
