@@ -90,7 +90,7 @@ Always upgrading. Always innovating. Always dreaming bigger 💭
 ## 📬 Contact Me
 
 - 📧 **Email:** [adyanth.mani@gmail.com](mailto:adyanth.mani@gmail.com)
-
+- 💼 **Portfolio:** [Adyanth AI](https://adyanth.in)
 ---
 
 *Buitl with ❤️ by Adyanth M*
