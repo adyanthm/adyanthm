@@ -2,23 +2,18 @@
 
 ## 🚀 About Me
 
-I’m the founder of **ADYANTH AI**, an AI dev company building next-gen AI-powered applications, games and utility tools.
-I am just 14 but already diving deep into robotics, AI, web dev, and game tech.  
-I’m on a mission to redefine how humans interact with machines.
-
+I love writing python programs, web apps and developing games. I also do robotics in my free time.
 ---
 
-## 🧠 TECH Genius MODE: ON 💥
+## My skills
 
-> A young prodigy who excels in programming, hacking and robotics.
 
 | 🦾 Role | 💻 Skills | ⚙️ Tools |
 |--------|-----------|----------|
-| AI Engineer | Custom AI Models, TensorFlow, Hugging Face | Python, JavaScript |
-| Web Dev Genius | React, Next.js, Tailwind, Firebase | VS Code, Git |
-| Game Dev Slayer | WebGL, Three.js, FPS AI Bots | A\* Pathfinding |
-| Robotics Legend | Arduino, Smorphi Bots, Bluetooth, Raspberry PI | Arduino IDE |
-| Visionary Leader | Project Builds, Startup Mindset | Figma, GitHub |
+| AI  | Custom AI Models, TensorFlow, Hugging Face | Python, JavaScript |
+| Web Dev  | React, Next.js, Tailwind, Firebase | VS Code, Git |
+| Game Dev  | WebGL, Three.js, FPS AI Bots | A\* Pathfinding |
+| Robotics  | Arduino, Smorphi Bots, Bluetooth, Raspberry PI | Arduino IDE |
 
 ---
 
@@ -66,6 +61,7 @@ I’m on a mission to redefine how humans interact with machines.
 - 🎮 [Race Car Game](https://car.adyanth.in)
 - 🛒 [Ecommerce App](https://shop.adyanth.in)
 - ♿ [SmartSenseAid](https://smart.adyanth.in)
+- 🦇 [Bat Attack Game](https://bat.adyanth.in)
 ---
 
 ## 🏆Achievements 
