@@ -71,7 +71,7 @@ Always upgrading. Always innovating. Always dreaming bigger 💭
 ---
 
 ## 📬 Contact Me
-- 💼 **Portfolio:** [Adyanth AI](https://adyanth.in)
+- 💼 **Portfolio:** [Adyanth](https://adyanth.in)
 ---
 
 *Built with ❤️ by Adyanth M*
